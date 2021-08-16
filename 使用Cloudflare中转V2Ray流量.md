@@ -29,7 +29,7 @@
 
 <h2 id="添加域名解析">添加域名解析</h2>
 
-<p>在 DNS 选项卡那边添加一个 A 记录的域名解析，假设你的域名是 233blog.com，并且想要使用 www.233blog.com 作为翻墙的域名<br />
+<p>在 DNS 选项卡那边添加一个 A 记录的域名解析，假设你的域名是 qmdy.ml，并且想要使用 qmdy.ml 作为翻墙的域名<br />
 那么在 DNS 那里配置，Name 写 www，IPv4 address 写你的 VPS IP，<strong>务必把云朵点灰</strong>，然后选择 Add Record 来添加解析记录即可<br />
 (如果你已经添加域名解析，<strong>请务必把云朵点灰</strong>，即是 DNS only)</p>
 
